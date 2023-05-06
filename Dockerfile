@@ -14,7 +14,7 @@ WORKDIR /app
 RUN git clone https://github.com/Lune221/HelloWorld
 
 RUN javac HelloWorld/HelloWorld.java
-RUN ls -liaht
+RUN ls -laiht
 RUN cp HelloWorld/* .
 RUN ls -liaht
 
