@@ -11,7 +11,7 @@ RUN export JAVA_HOME
 
 WORKDIR /app
 
-RUN git clone https://github.com/dieyna2000/HelloWorld
+RUN git clone https://github.com/Lune221/HelloWorld.git
 # COPY .mvn/ .mvn
 # COPY mvnw pom.xml ./
 # RUN ./mvnw dependency:resolve
