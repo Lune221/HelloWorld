@@ -1,0 +1,436 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true
+				}
+			]
+		},
+		{
+			"_type": "FCFlowchart",
+			"_id": "AAAAAAGH7jLVJjdfIRU=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Flowchart1",
+			"ownedElements": [
+				{
+					"_type": "FCFlowchartDiagram",
+					"_id": "AAAAAAGH7jLVJzdgwA8=",
+					"_parent": {
+						"$ref": "AAAAAAGH7jLVJjdfIRU="
+					},
+					"name": "FlowchartDiagram1",
+					"ownedViews": [
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGH7jLmbjdmTuE=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jLVJzdgwA8="
+							},
+							"model": {
+								"$ref": "AAAAAAGH7jLmbjdkJUI="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGH7jLmbzdneAE=",
+									"_parent": {
+										"$ref": "AAAAAAGH7jLmbjdmTuE="
+									},
+									"font": "Arial;13;0",
+									"left": 394,
+									"top": 90,
+									"width": 54.18994140625,
+									"height": 39,
+									"text": "Create A JAVA APP",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 80,
+							"width": 74.18994140625,
+							"height": 59,
+							"nameLabel": {
+								"$ref": "AAAAAAGH7jLmbzdneAE="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGH7jMnszdwUtw=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jLVJzdgwA8="
+							},
+							"model": {
+								"$ref": "AAAAAAGH7jMnszduCJc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGH7jMnszdxWao=",
+									"_parent": {
+										"$ref": "AAAAAAGH7jMnszdwUtw="
+									},
+									"font": "Arial;13;0",
+									"left": 394,
+									"top": 194,
+									"width": 54.18994140625,
+									"height": 39,
+									"text": "Create A GH Repo",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 184,
+							"width": 74.18994140625,
+							"height": 59,
+							"nameLabel": {
+								"$ref": "AAAAAAGH7jMnszdxWao="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGH7jPFwzd6Rig=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jLVJzdgwA8="
+							},
+							"model": {
+								"$ref": "AAAAAAGH7jPFwzd4JJo="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGH7jPFwzd7tBY=",
+									"_parent": {
+										"$ref": "AAAAAAGH7jPFwzd6Rig="
+									},
+									"font": "Arial;13;0",
+									"left": 394,
+									"top": 346,
+									"width": 54.18994140625,
+									"height": 52,
+									"text": "Create An Image JAVA",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 336,
+							"width": 74.18994140625,
+							"height": 72,
+							"nameLabel": {
+								"$ref": "AAAAAAGH7jPFwzd7tBY="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGH7jSMRDeDHfA=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jLVJzdgwA8="
+							},
+							"model": {
+								"$ref": "AAAAAAGH7jSMQzeBwzY="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGH7jSMRDeEHTk=",
+									"_parent": {
+										"$ref": "AAAAAAGH7jSMRDeDHfA="
+									},
+									"font": "Arial;13;0",
+									"left": 394,
+									"top": 466,
+									"width": 54.18994140625,
+									"height": 52,
+									"text": "Pull Project From GH",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 456,
+							"width": 74.18994140625,
+							"height": 72,
+							"nameLabel": {
+								"$ref": "AAAAAAGH7jSMRDeEHTk="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGH7jTM6TeMbNg=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jLVJzdgwA8="
+							},
+							"model": {
+								"$ref": "AAAAAAGH7jTM6DeK9BA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGH7jTM6TeN2fI=",
+									"_parent": {
+										"$ref": "AAAAAAGH7jTM6TeMbNg="
+									},
+									"font": "Arial;13;0",
+									"left": 394,
+									"top": 586,
+									"width": 54.18994140625,
+									"height": 52,
+									"text": "Run The Project With JAVA",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 576,
+							"width": 74.18994140625,
+							"height": 72,
+							"nameLabel": {
+								"$ref": "AAAAAAGH7jTM6TeN2fI="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGH7jUUxzeWtfw=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jLVJzdgwA8="
+							},
+							"model": {
+								"$ref": "AAAAAAGH7jUUxjeUwM4="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGH7jUUyTeXtFw=",
+									"_parent": {
+										"$ref": "AAAAAAGH7jUUxzeWtfw="
+									},
+									"model": {
+										"$ref": "AAAAAAGH7jUUxjeUwM4="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 434,
+									"top": 154,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGH7jUUxzeWtfw="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGH7jMnszdwUtw="
+							},
+							"tail": {
+								"$ref": "AAAAAAGH7jLmbjdmTuE="
+							},
+							"lineStyle": 2,
+							"points": "420:138;420:184",
+							"nameLabel": {
+								"$ref": "AAAAAAGH7jUUyTeXtFw="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGH7jVnijejEPw=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jLVJzdgwA8="
+							},
+							"model": {
+								"$ref": "AAAAAAGH7jVniTeh92E="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGH7jVnijekDw4=",
+									"_parent": {
+										"$ref": "AAAAAAGH7jVnijejEPw="
+									},
+									"model": {
+										"$ref": "AAAAAAGH7jVniTeh92E="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 434,
+									"top": 424,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGH7jVnijejEPw="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGH7jSMRDeDHfA="
+							},
+							"tail": {
+								"$ref": "AAAAAAGH7jPFwzd6Rig="
+							},
+							"lineStyle": 2,
+							"points": "420:407;420:456",
+							"nameLabel": {
+								"$ref": "AAAAAAGH7jVnijekDw4="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGH7jV0ODesA7k=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jLVJzdgwA8="
+							},
+							"model": {
+								"$ref": "AAAAAAGH7jV0ODeqaJE="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGH7jV0ODetLtY=",
+									"_parent": {
+										"$ref": "AAAAAAGH7jV0ODesA7k="
+									},
+									"model": {
+										"$ref": "AAAAAAGH7jV0ODeqaJE="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 434,
+									"top": 544,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGH7jV0ODesA7k="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGH7jTM6TeMbNg="
+							},
+							"tail": {
+								"$ref": "AAAAAAGH7jSMRDeDHfA="
+							},
+							"lineStyle": 2,
+							"points": "420:527;420:576",
+							"nameLabel": {
+								"$ref": "AAAAAAGH7jV0ODetLtY="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGH7jLmbjdkJUI=",
+					"_parent": {
+						"$ref": "AAAAAAGH7jLVJjdfIRU="
+					},
+					"name": "Create A JAVA APP",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGH7jUUxjeUwM4=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jLmbjdkJUI="
+							},
+							"source": {
+								"$ref": "AAAAAAGH7jLmbjdkJUI="
+							},
+							"target": {
+								"$ref": "AAAAAAGH7jMnszduCJc="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGH7jMnszduCJc=",
+					"_parent": {
+						"$ref": "AAAAAAGH7jLVJjdfIRU="
+					},
+					"name": "Create A GH Repo"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGH7jPFwzd4JJo=",
+					"_parent": {
+						"$ref": "AAAAAAGH7jLVJjdfIRU="
+					},
+					"name": "Create An Image JAVA",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGH7jVniTeh92E=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jPFwzd4JJo="
+							},
+							"source": {
+								"$ref": "AAAAAAGH7jPFwzd4JJo="
+							},
+							"target": {
+								"$ref": "AAAAAAGH7jSMQzeBwzY="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGH7jSMQzeBwzY=",
+					"_parent": {
+						"$ref": "AAAAAAGH7jLVJjdfIRU="
+					},
+					"name": "Pull Project From GH",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGH7jV0ODeqaJE=",
+							"_parent": {
+								"$ref": "AAAAAAGH7jSMQzeBwzY="
+							},
+							"source": {
+								"$ref": "AAAAAAGH7jSMQzeBwzY="
+							},
+							"target": {
+								"$ref": "AAAAAAGH7jTM6DeK9BA="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGH7jTM6DeK9BA=",
+					"_parent": {
+						"$ref": "AAAAAAGH7jLVJjdfIRU="
+					},
+					"name": "Run The Project With JAVA"
+				}
+			]
+		}
+	]
+}
